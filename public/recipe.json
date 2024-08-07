@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_id": "1",
+        "recipe_image": "https://i.ibb.co/NyDw17Y/still-life-cup-brazilian-acai-dessert-23-2150168786.jpg",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredients": ["380g ground beef", "1 onion, chopped", "2 cloves garlic, minced"],
+        "preparing_time": "30 minutes",
+        "calories": "640 calories"
+    },
+    {
+        "recipe_id": "2",
+        "recipe_image": "https://i.ibb.co/7zZk9pc/vegetable-salad-with-white-cheese-basil-140725-1036.jpg",
+        "recipe_name": "Chicken Caesar Salad",
+        "short_description": "Classic Italian pasta dish with savory meat sauce.",
+        "ingredients": ["500g ground beef", "1 onion, chopped", "2 cloves garlic, minced"],
+        "preparing_time": "30 minutes",
+        "calories": "600 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co/MsgDrRH/louis-hansel-KQR3-ENYfrpw-unsplash.jpg",
+        "recipe_id": "3",
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A flavorful and aromatic curry with a mix of fresh vegetables.",
+        "ingredients": ["1 potato", "1 carrot", "200 g cauliflower", "100 g green peas", "200 ml coconut milk", "2 tbsp curry powder"],
+        "preparing_time": "40 min",
+        "calories": "280 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co/FYkxstW/sara-nichols-V0-TUKexdlb4-unsplash.jpg",
+        "recipe_id": "4",
+        "recipe_name": "Salmon Salad",
+        "short_description": "A healthy and refreshing salad with grilled salmon and mixed greens.",
+        "ingredients": ["200 g salmon fillet", "100 g mixed greens", "1 avocado", "10 cherry tomatoes", "50 g feta cheese", "2 tbsp olive oil"],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co/ByzJf6J/odiseo-castrejon-J04-BD4ysoh8-unsplash.jpg",
+        "recipe_id": "5",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style tacos with seasoned ground beef and fresh toppings.",
+        "ingredients": ["500 g ground beef", "12 taco shells", "1 onion", "1 tomato", "100 g lettuce", "50 g cheddar cheese", "2 tbsp taco seasoning"],
+        "preparing_time": "20 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co/zhfFmMK/Chocolate-Cake.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Chocolate Cake",
+        "short_description": "A rich and moist chocolate cake with a creamy chocolate frosting.",
+        "ingredients": ["200 g flour", "200 g sugar", "100 g cocoa powder", "1 tsp baking powder", "200 ml milk", "100 g butter"],
+        "preparing_time": "60 min",
+        "calories": "450 calories"
+    }
+]
